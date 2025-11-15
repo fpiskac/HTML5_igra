@@ -18,8 +18,8 @@ var STUPCI_CIGLI = 10;
 var UKUPNO_CIGLI = REDOVI_CIGLI * STUPCI_CIGLI;
 
 // Dimenzije cigli i razmaci
-var sirina_cigle = 80;
-var visina_cigle = 25;
+var sirina_cigle = 55;
+var visina_cigle = 20;
 var razmak_cigli_x = 30;  // horizontalni
 var razmak_cigli_y = 15;  // vertikalni
 var pomak_gore = 40;
