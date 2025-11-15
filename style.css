@@ -1,0 +1,25 @@
+/* Osnovni stil pozadine */
+body {
+    background: #111;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+/* Canvas rub i pozadina */
+canvas {
+    border: 5px solid white;
+    background: black;
+    display: block;
+}
+
+/* Boja loptice */
+.ball { 
+    background-color: #e9e9e9; 
+}
+
+/* Boja palice */
+.paddle { 
+    background-color: #ebebeb; 
+}
